@@ -1,0 +1,14 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #fea12a;
+  border-radius: 5px;
+}
+
+.App {
+  text-align: center;
+}

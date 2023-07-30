@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=poppins&display=swap");
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "poppins", -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
